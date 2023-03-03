@@ -108,8 +108,6 @@ module.exports = plugin(
             ] = {};
         }
 
-        console.log(aemGrid);
-
         addComponents(aemGrid, { respectPrefix: false });
     },
     {
