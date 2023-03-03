@@ -1,6 +1,6 @@
 {
     "name": "@kele23/tailwind-aem-grid",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A tailwind plugin to generate AEM Grid",
     "main": "index.js",
     "scripts": {
